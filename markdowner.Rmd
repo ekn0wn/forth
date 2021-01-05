@@ -1,8 +1,6 @@
 ---
 title: "This @#$?"
-output: 
-  html_document: 
-    keep_md: yes
+output: git_hub_document
 ---
 
 ```{r setup, include=FALSE}
