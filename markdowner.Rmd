@@ -1,6 +1,8 @@
 ---
 title: "This @#$?"
-output: git_hub_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
