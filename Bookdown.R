@@ -11,7 +11,7 @@ Cross-references:
 
 Figures and tavles and citations:
   par(mar =c(4, 4, .1, .1))
-  plot(pressure, type = 'b', pch = 19)
+  plot(pressure, type = 'b', pch = 19)i
   
   Reference a figure by its code chunk label with fig: prefix. 
   Reference tables generated from knitr::kable()
