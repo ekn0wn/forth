@@ -1,9 +1,4 @@
----
-title: "This @#$?"
-output:
-  html_document:
-    df_print: paged
----
+
 
 #```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
